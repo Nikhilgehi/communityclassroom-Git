@@ -1,0 +1,17 @@
+.cls{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.Header{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 8px 0px 8px 0px;
+    padding: 6px 5px 5px 6px ;
+}
+.btn{
+    margin-left: 50vw;
+    justify-content: center;
+    border: 2px solid black;
+}
